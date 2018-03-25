@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "11948440209",
+    "firebase_url": "https://pandoma-1519832598553.firebaseio.com",
+    "project_id": "pandoma-1519832598553",
+    "storage_bucket": "pandoma-1519832598553.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11948440209:android:426fa0302f729201",
+        "android_client_info": {
+          "package_name": "org.d3ifcool.pandoma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11948440209-3ta0iscu2m36asgr8qp1kkmcs592qdhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.d3ifcool.pandoma",
+            "certificate_hash": "b42f41870c93659feed2da3660aae8e6bfac72bf"
+          }
+        },
+        {
+          "client_id": "11948440209-qgvh105isl13ko6sptei6ei2vstt5h8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHJkgcIWb4G-dBIArr3ZHa0SW5uIv8KyQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11948440209-qgvh105isl13ko6sptei6ei2vstt5h8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

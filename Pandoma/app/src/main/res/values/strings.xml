@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Pandoma</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="umur">Umur</string>
+    <string name="riwayat_penyakit">Riwayat Penyakit</string>
+    <string name="submit">Submit</string>
+    <string name="username">Username</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="password">password</string>
+    <string name="alamat_lengkap">Alamat Lengkap</string>
+    <string name="usia">Usia</string>
+    <string name="no_ktp">No. KTP</string>
+    <string name="no_telp">No Telp</string>
+    <string name="title_activity_pasien">PasienActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="logout">logout</string>
+    <string name="registration">Registration</string>
+    <string name="registrationPasien">Registration</string>
+    <string name="loginPasien">Login</string>
+    <string name="loginDokter">Login</string>
+    <string name="email">Email</string>
+    <string name="find_doctor">Find Doctor</string>
+    <string name="i_m_a_patient">I\'m a Patient</string>
+    <string name="i_m_a_doctor">I\'m a Doctor</string>
+    <string name="list_doctor">List Doctor</string>
+</resources>
